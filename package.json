@@ -1,0 +1,14 @@
+{
+    "name": "update-blog-posts",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "update": "node posts.js"
+    },
+    "license": "MIT",
+    "author": "wlgh1553",
+    "description": "update latest velog posts",
+    "dependencies": {
+        "rss-parser": "^3.13.0"
+    }
+}
