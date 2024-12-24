@@ -32,4 +32,9 @@ jobs:
         git config --local user.name "wlgh1553"
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "docs: Update blog posts"
-        git push
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
+        branch: main
