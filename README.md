@@ -11,6 +11,6 @@
 |---------|------------|--------|-------------------|------------|
 | Ask-It | 실시간 Q&A 서비스 | 2024.10.28 ~ 2024.12.06 | BE | [🔗web07-Ask-It](https://github.com/boostcampwm-2024/web07-Ask-It) |
 ### Latest Blog Posts
+- [GitHub 프로필에 최신 블로그 포스팅 자동으로 가져오기 (2024.12.24)](https://velog.io/@wlgh1553/GitHub-%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EC%B5%9C%EC%8B%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 - [네이버 부스트캠프 웹·모바일 9기 챌린지 회고 (2024.12.24)](https://velog.io/@wlgh1553/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-9%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%9A%8C%EA%B3%A0)
 - [네이버 부스트캠프 웹·모바일 9기 베이직 후기 (feat. 지원 과정) (2024.12.23)](https://velog.io/@wlgh1553/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%9B%B9%E3%83%BB%EB%AA%A8%EB%B0%94%EC%9D%BC-9%EA%B8%B0-%EB%B2%A0%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0-feat.-%EC%A7%80%EC%9B%90-%EA%B3%BC%EC%A0%95)
-- [Ask-It 서비스를 위한 NCP 사용기 (2024.12.21)](https://velog.io/@wlgh1553/Ask-It-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-NCP-%EC%82%AC%EC%9A%A9%EA%B8%B0)
