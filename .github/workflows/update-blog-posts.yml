@@ -2,6 +2,8 @@ name: Update Blog Posts
 on:
   push:
     branches: [ main ]
+    paths-ignore:    # README.md 변경은 무시
+      - 'README.md'
   pull_request:
     branches: [ main ]
   schedule:
