@@ -34,8 +34,8 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        git config --local user.email "wlgh1553@gmail.com"
-        git config --local user.name "wlgh1553"
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "${{ github.actor }}"
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "docs: Update blog posts"
 
