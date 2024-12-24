@@ -15,7 +15,3 @@
 
 - **네이버 부스트캠프 웹・모바일 9기 웹 풀스택** (2024.06 ~ 2024.12)
 - **세종대학교 소프트웨어학과** (2022.03 ~ 재학중)
-
-### Blog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlgh1553)](https://velog.io/@wlgh1553)
