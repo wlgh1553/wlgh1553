@@ -19,6 +19,7 @@
 
 
 
+
 ### Latest Blog Posts
 - [네이버 부스트캠프 웹·모바일 9기 챌린지 회고 (2024.12.24)](https://velog.io/@wlgh1553/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-9%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%9A%8C%EA%B3%A0)
 - [네이버 부스트캠프 웹・모바일 9기 베이직 후기 (feat. 지원 과정) (2024.12.23)](https://velog.io/@wlgh1553/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%9B%B9%E3%83%BB%EB%AA%A8%EB%B0%94%EC%9D%BC-9%EA%B8%B0-%EB%B2%A0%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0-feat.-%EC%A7%80%EC%9B%90-%EA%B3%BC%EC%A0%95)
