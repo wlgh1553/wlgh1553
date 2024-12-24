@@ -35,7 +35,9 @@ async function updateReadme() {
     const title = "### Latest Blog Posts";
     const posts = buildContents(items);
 
-    const result = originReadme.split(title)[0] + CRLF + title + CRLF + posts;
+    const result = [originReadme.split(title)[0], title, posts]
+        .map(str => str.trim())
+        .join(CRLF);
     await fs.promises.writeFile("README.md", result, "utf-8");
 }
 
