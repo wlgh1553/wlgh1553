@@ -18,4 +18,4 @@
 
 ### Blog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlgh1553)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlgh1553)](https://velog.io/@wlgh1553)
