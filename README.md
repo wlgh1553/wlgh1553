@@ -9,6 +9,7 @@
 
 | Project | Description | Period | Role | Repository |
 |---------|------------|--------|-------------------|------------|
+| Ask-It-Refactor | Ask-It 서비스 리팩토링 | 2025.01.06 ~ 진행중 | BE | [🔗refactor-web07-Ask-It](https://github.com/boostcampwm-2024/refactor-web07-Ask-It) |
 | Ask-It | 실시간 Q&A 서비스 | 2024.10.28 ~ 2024.12.06 | BE | [🔗web07-Ask-It](https://github.com/boostcampwm-2024/web07-Ask-It) |
 ### Latest Blog Posts
 - [RBAC 도입을 통한 권한 관리 로직 개선기 (2025.1.13)](https://velog.io/@wlgh1553/RBAC-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B6%8C%ED%95%9C-%EA%B4%80%EB%A6%AC-%EB%A1%9C%EC%A7%81-%EA%B0%9C%EC%84%A0%EA%B8%B0)
