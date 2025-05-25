@@ -12,8 +12,8 @@
   
 | Project | Description | Period | Role | Repository |
 |---------|------------|--------|-------------------|------------|
-| Ask-It-Refactor | Ask-It 서비스 리팩토링 | 2025.01.06 ~ 2025.02.21 | BE | [🔗refactor-web07-Ask-It](https://github.com/boostcampwm-2024/refactor-web07-Ask-It) |
-| Ask-It | 실시간 Q&A 서비스 | 2024.10.28 ~ 2024.12.06 | BE | [🔗web07-Ask-It](https://github.com/boostcampwm-2024/web07-Ask-It) |
+| Ask-It-Refactor | Ask-It 서비스 리팩토링 | 2025.01.06 - 2025.02.21 | BE | [🔗refactor-web07-Ask-It](https://github.com/boostcampwm-2024/refactor-web07-Ask-It) |
+| Ask-It | 실시간 Q&A 서비스 | 2024.10.28 - 2024.12.06 | BE | [🔗web07-Ask-It](https://github.com/boostcampwm-2024/web07-Ask-It) |
 
 ### Latest Blog Posts
 - [네이버 부스트캠프를 마무리하며 (2025.2.20)](https://velog.io/@wlgh1553/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84%EB%A5%BC-%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%95%98%EB%A9%B0)
