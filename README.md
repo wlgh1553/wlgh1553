@@ -1,9 +1,15 @@
 ## 꾸준한 성장을 만들어가는 개발자 이지호 입니다! 🤗
 
-👉 [resume](https://drive.google.com/file/d/1OoSi0pyC-GH2Vdaszqgp1NCZusb200GQ/view?usp=drive_link)
+👉 [resume](https://drive.google.com/file/d/1OoSi0pyC-GH2Vdaszqgp1NCZusb200GQ/view?usp=drive_link) | 📧 wlgh1553@naver.com | 📝 [Blog](https://velog.io/@wlgh1553/posts)
 
+### Experience
+
+- **당근** · 인턴 | Software Engineer, Backend (2025.02 - 2025.05)
+- **네이버 부스트캠프 웹·모바일 9기** (2024.07 - 2024.12)
+- **세종대학교** · 소프트웨어학과 (2022.03 - 재학중)
+ 
 ### Projects
-
+  
 | Project | Description | Period | Role | Repository |
 |---------|------------|--------|-------------------|------------|
 | Ask-It-Refactor | Ask-It 서비스 리팩토링 | 2025.01.06 ~ 2025.02.21 | BE | [🔗refactor-web07-Ask-It](https://github.com/boostcampwm-2024/refactor-web07-Ask-It) |
