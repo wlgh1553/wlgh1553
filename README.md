@@ -2,11 +2,6 @@
 
 👉 [resume](https://drive.google.com/file/d/1OoSi0pyC-GH2Vdaszqgp1NCZusb200GQ/view?usp=drive_link) | 📧 wlgh1553@naver.com | 📝 [Blog](https://velog.io/@wlgh1553/posts)
 
-### Experience
-- 🏢 **Daangn** · Intern | Software Engineer, Backend (2025.02 - 2025.05)
-- 💻 **NAVER BoostCamp Web·Mobile 9th** (2024.07 - 2024.12)
-- 🎓 **Sejong University** Software Engineering (2022.03 - Present)
-
 ### Projects
   
 | Project | Description | Period | Role | Repository |
