@@ -1,9 +1,9 @@
 ## Hi there, I'm Jiho 🙌
 
-👉 [resume](https://drive.google.com/file/d/1OoSi0pyC-GH2Vdaszqgp1NCZusb200GQ/view?usp=drive_link) | 📧 wlgh1553@naver.com | 📝 [Blog](https://velog.io/@wlgh1553/posts)
+👉 [resume](https://drive.google.com/file/d/1yydoxDyC-fgZy9jBkRBLXE5C59LqluTl/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [Blog](https://velog.io/@wlgh1553/posts)
 
 ### Projects
-  
+
 | Project | Description | Period | Role | Repository |
 |---------|------------|--------|-------------------|------------|
 | Ask-It-Refactor | Ask-It Service Refactoring | 2025.01.06 - 2025.02.21 | BE | [🔗refactor-web07-Ask-It](https://github.com/boostcampwm-2024/refactor-web07-Ask-It) |
