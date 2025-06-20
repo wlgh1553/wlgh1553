@@ -1,6 +1,6 @@
 ## Hi there, I'm Jiho 🙌
 
-👉 [resume](https://drive.google.com/file/d/1dW2JPFhTjTLRa1QTeEYXNuWxwEzeV99E/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [Blog](https://velog.io/@wlgh1553/posts)
+👉 [resume](https://drive.google.com/file/d/1dW2JPFhTjTLRa1QTeEYXNuWxwEzeV99E/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [blog](https://velog.io/@wlgh1553/posts)
 
 ### Projects
 
