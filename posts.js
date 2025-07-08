@@ -4,6 +4,7 @@ import Parser from "rss-parser";
 const CRLF = "\r\n";
 const BLOG_URL = "https://api.velog.io/rss/@wlgh1553";
 const MAX_POSTS = 3;
+const FILTER_TITLE = '혼공머신'
 
 async function getPosts() {
     const parser = new Parser();
@@ -23,7 +24,7 @@ function buildContent({ title, isoDate, link }) {
 }
 
 function buildContents(items) {
-    return items.slice(0, MAX_POSTS).map(buildContent).join(CRLF);
+    return items.filter(({title}) => !title.includes(FILTER_TITLE)).slice(0, MAX_POSTS).map(buildContent).join(CRLF);
 }
 
 async function updateReadme() {
