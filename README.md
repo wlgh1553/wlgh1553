@@ -1,6 +1,6 @@
 ## Hi there, I'm Jiho 🙌
 
-👉 [resume](https://drive.google.com/file/d/1dW2JPFhTjTLRa1QTeEYXNuWxwEzeV99E/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [blog](https://velog.io/@wlgh1553/posts)
+👉 [resume](https://drive.google.com/file/d/1rqtoseIFrZUjeRuZ5vGh8HIq37s5WOzO/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [blog](https://velog.io/@wlgh1553/posts)
 
 ### Projects
 
@@ -12,4 +12,5 @@
 ### Latest Blog Posts
 - [[도커 만들기] 2탄: 탈옥을 막아라 (2025.7.25)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%ED%83%88%EC%98%A5%EC%9D%84-%EB%A7%89%EC%95%84%EB%9D%BC)
 - [[도커 만들기] 1탄: 프로세스 가두기 (2025.7.11)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84)
+
 - [토스 오픈소스 도전기 (2025.6.25)](https://velog.io/@wlgh1553/%EC%B2%AB-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8F%84%EC%A0%84%EA%B8%B0)
