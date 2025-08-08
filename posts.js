@@ -18,7 +18,7 @@ function buildContent({ title, isoDate, link }) {
     const year = date.getFullYear();
     const month = date.getMonth() + 1;
     const day = date.getDate();
-    const koreanDate = `${year}.${month}.${day}`;
+    const koreanDate = [year, month.toString().padStart(2, '0'), day.toString().padStart(2, '0')].join('.');
 
     return `${LIST} [${title} (${koreanDate})](${link})`;
 }
