@@ -3,9 +3,9 @@
 👉 [resume](https://drive.google.com/file/d/1rqtoseIFrZUjeRuZ5vGh8HIq37s5WOzO/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [blog](https://velog.io/@wlgh1553/posts)
 
 ### Experience
-| Company | Role | Team | Period | Description |
+| Company | Role | Period | Description |
 |---------|------|------|---------|-------------|
-| [당근](https://about.daangn.com/) | Software Engineer, Backend (Intern) | 피드 ML Data Platform팀 | 2025.02.24 - 2025.05.23 | 추천엔진 디버깅 도구 및 추천정책 자동설명 서비스 구축 |
+| [당근](https://about.daangn.com/) | Software Engineer, Backend (Intern) | 2025.02.24 - 2025.05.23 | 추천엔진 디버깅 도구 및 추천정책 자동설명 서비스 구축 |
 
 ### Projects
 
@@ -21,4 +21,5 @@
 ### Latest Blog Posts
 - [[도커 만들기] 3탄: 중복 문제 해결하기 (2025.08.15)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3%ED%83%84)
 - [[도커 만들기] 2탄: 탈옥을 막아라 (2025.07.25)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%ED%83%88%EC%98%A5%EC%9D%84-%EB%A7%89%EC%95%84%EB%9D%BC)
+
 - [[도커 만들기] 1탄: 프로세스 가두기 (2025.07.11)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84)
