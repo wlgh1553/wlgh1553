@@ -1,7 +1,5 @@
 ## Hi there, I'm Jiho 🙌
 
-👉 [resume](https://drive.google.com/file/d/1wb_no2KgRcd8Xh2sL2zGy_wxj65Pg6TT/view?usp=sharing) | 📧 wlgh1553@naver.com | 📝 [blog](https://velog.io/@wlgh1553/posts)
-
 ### Experience
 | Company | Role | Period | Description |
 |---------|------|-------|------|
@@ -17,4 +15,5 @@
 ### Latest Blog Posts
 - [Node.js 오픈소스 도전기 (2025.10.04)](https://velog.io/@wlgh1553/Node.js-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8F%84%EC%A0%84%EA%B8%B0)
 - [[도커 만들기] 3탄: 중복 문제 해결하기 (2025.08.15)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3%ED%83%84)
+
 - [[도커 만들기] 2탄: 탈옥을 막아라 (2025.07.25)](https://velog.io/@wlgh1553/%EB%8F%84%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%ED%83%88%EC%98%A5%EC%9D%84-%EB%A7%89%EC%95%84%EB%9D%BC)
